@@ -1,2 +1,3 @@
 # Simple-SnakeGame
-A  simple snake game using pure javascript, html and CSS 
+
+Deploy in a live server to work properly :) 
